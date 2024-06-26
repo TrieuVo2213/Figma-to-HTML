@@ -1,0 +1,3 @@
+// number function
+// dùng để ép kiểu dữ liệu sang number.Ví dụ
+console.log(Number("4.5")); // ở đây xâu 4.5 đã được gán thành 4.5

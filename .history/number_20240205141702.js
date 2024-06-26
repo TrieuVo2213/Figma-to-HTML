@@ -1,0 +1,1 @@
+//số khi in ra màn hình consol thì có màu xanh khác với chuỗi là màu đen
